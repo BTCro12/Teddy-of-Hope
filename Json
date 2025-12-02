@@ -1,0 +1,24 @@
+{
+  "name": "Teddy of Hope",
+  "symbol": "TEDDY",
+  "description": "Teddy of Hope este un memecoin caritabil inspirat de un ursuleț ud de ploaie, singur și pierdut. Fiecare tranzacție este gândită ca o mică donație pentru cei care au nevoie de adăpost, hrană și speranță. Nu este doar un token, este un memento că nimeni nu ar trebui lăsat în frig.",
+  "image": "https://raw.githubusercontent.com/BTCro12/Teddy-of-Hope/main/file_000000005b507246920de9c170c3cd16.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Charity Memecoin"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Hope & Donations"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Sad but hopeful"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Solana"
+    }
+  ]
+}
